@@ -6,6 +6,6 @@ export default defineConfig({
   base: '/Teach/',
   plugins: [react()],
   build:{
-    outDir: 'build'
+    outDir: 'docs'
   }
 })
